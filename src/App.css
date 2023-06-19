@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+.parent{
+  display:grid
+}
+.child2{
+  float:right;
+  width:30%;
+}
+.child{
+  float:left;
+  width:70%;
+}
